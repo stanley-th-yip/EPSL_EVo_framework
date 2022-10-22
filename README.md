@@ -1,6 +1,7 @@
 # Thermodynamic framework for EVo
 
 This is a thermodynamic framework developed by Kilbride et al. (2016) and refined by Yip et al. (2022). 
+
 In this version, we incorporate pre-eruptive exsolved volatile segregation into the thermodynamic model.
 
 This notebook processes output from EVo thermodynamic model (Liggins et al., 2020, 2022) to: 
