@@ -1,7 +1,8 @@
-# Thermodynamic framework for EVo
+# EPSL_EVo_framework
+
+This repository archives the Jupyter Notebook and data used in the article "The role of pre-eruptive exsolved volatile segregation on volcanic deformation and degassing by Yip et al. (in submission to EPSL). 
 
 This is a thermodynamic framework developed by Kilbride et al. (2016) and refined by Yip et al. (2022). 
-
 In this version, we incorporate pre-eruptive exsolved volatile segregation into the thermodynamic model.
 
 This notebook processes output from EVo thermodynamic model (Liggins et al., 2020, 2022) to: 
