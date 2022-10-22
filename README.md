@@ -8,7 +8,7 @@ This notebook processes output from EVo thermodynamic model (Liggins et al., 202
 - calculate observable parameters (e.g., SO₂, volume change and displacement, all normalised by per unit volume erupted)
 - *NEW!* simulate pre-eruptive gas accumulation/ loss
 
-To modify constant k to simulate pre-eruptive exsolve volatile segregation, please change the value of k to a number greater than -1 in L424 of dgs_classes.py in the EVo thermodynamic model.
+To simulate pre-eruptive exsolve volatile segregation, please modify the value of constant k to a number greater than -1 in L424 of dgs_classes.py file in the EVo thermodynamic model.
 
 EVo thermodynamic model: https://github.com/pipliggins/EVo
 
